@@ -2,8 +2,8 @@ import os
 from datetime import datetime
 
 # Please customize the following variables 
-USER_NAME = "shahbazc"
-VERSION = "1.0.0"
+USER_NAME = "gmartinezh"
+VERSION = "2.0.0"
 
 def say_hi(msg:str = "Hi!", file_directory:str = "/app/data/") -> None:
     # Generate timestamp
